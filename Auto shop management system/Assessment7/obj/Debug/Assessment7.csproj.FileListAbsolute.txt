@@ -1,0 +1,9 @@
+H:\Assessment7\Assessment7\bin\Debug\Assessment7.exe.config
+H:\Assessment7\Assessment7\bin\Debug\Assessment7.exe
+H:\Assessment7\Assessment7\bin\Debug\Assessment7.pdb
+H:\Assessment7\Assessment7\obj\Debug\Assessment7.csprojResolveAssemblyReference.cache
+H:\Assessment7\Assessment7\obj\Debug\Assessment7.Properties.Resources.resources
+H:\Assessment7\Assessment7\obj\Debug\Assessment7.csproj.GenerateResource.Cache
+H:\Assessment7\Assessment7\obj\Debug\Assessment7.exe
+H:\Assessment7\Assessment7\obj\Debug\Assessment7.pdb
+H:\Assessment7\Assessment7\obj\Debug\Assessment7.JoeAutomotive.resources
